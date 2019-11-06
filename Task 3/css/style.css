@@ -1,0 +1,37 @@
+.heading{
+  color: black;
+  margin-top: auto;
+  font-size: 25px;
+  font-style: italic;
+
+}
+.para{
+  text-align: left;
+  width: 100%;
+  height:auto;
+  font-size: 15px;
+  font-style: italic;
+}
+.heading1{
+  color: black;
+  margin-left:25%
+  width:50%;
+  height: auto;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+}
+.para1{
+  width:60%;
+  height: 30%;
+  margin: 0 auto;
+  font-size: 25px;
+  font-style: italic;
+ color: green;
+}
+.d1{
+  width: 100%;
+}
+.d2{
+  width: 100%;
+}
