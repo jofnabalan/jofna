@@ -1,0 +1,21 @@
+.heading1{
+	margin-left: 50%;
+    margin-top: 19%;
+    font-size: 25px;
+    font-style: italic;
+	color: red;
+}
+.heading2{
+	margin-left: 50%;
+    margin-top: 0%;
+    font-size: 25px;
+    font-style: italic;
+	color: green;
+}
+.heading3{
+	margin-left: 50%;
+    margin-top: 0%;
+    font-size: 25px;
+    font-style: italic;
+	color: blue;
+}
